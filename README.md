@@ -10,6 +10,6 @@ Luigi is contracting with you to develop a simple web based app, that will allow
 * Keep track of how many of the above has been served throughout the day
 * Keep track of time particular order was placed and then delivered
 
-Above can be accomlished in any Javascript framework - we prefer React/Redux but any will do. It is desirable to persist the data beyond one session of the browser (or in other words to store the data in the database) but not necessary. 
+Above can be accomplished in any Javascript framework - we prefer React/Redux but any will do. It is desirable to persist the data beyond one session of the browser (or in other words to store the data in the database) but not necessary. 
 
 Chef Luigi prefers well tested code to ensure that system can be well mainted - it would be a huge bonus for him if the code provided will be accompanied by test cases, though not a requirement.
