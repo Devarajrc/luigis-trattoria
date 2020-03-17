@@ -9,6 +9,8 @@ Luigi is contracting with you to develop a simple web based app, that will allow
 * Enter different kinds of meals/dishes that his restaurant serves
 * Keep track of how many of the above has been served throughout the day
 * Keep track of time particular order was placed and then delivered
+* View the list of all different kinds of meals/dishes the restaurant servers
+* View the statistics on how many of each meal/dish has been served
 
 Above can be accomplished in any Javascript framework - we prefer React/Redux but any will do. It is desirable to persist the data beyond one session of the browser (or in other words to store the data in the database) but not necessary. 
 
